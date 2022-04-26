@@ -1,17 +1,25 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/3Dsurface_plot-binder/main?filepath=index.ipynb)
 
-# 3Dsurface_plot-binder
+# diagrams_pkg-binder
 
-3D surface plot examples via Binder
+Examples for the [diagrams package](https://github.com/mingrammer/diagrams) examples via Binder
 
 Click on any `launch binder` badge on this page to begin.
 
 
 ----------
 
-### Related
+[Diagrams](https://github.com/mingrammer/diagrams):  
+Diagram as Code for prototyping cloud system architectures
 
-[3Dscatter_plot-binder: 3D scatter plot & related 2D examples via Binder](https://github.com/fomightez/3Dscatter_plot-binder)
+
+
+-----------
+
+
+### Attribution
+
+I, Wayne, am not associated with the [diagrams package](https://github.com/mingrammer/diagrams), I just set this up to make testing the package more convenient. Examples from from [the documentation examples page](https://diagrams.mingrammer.com/docs/getting-started/examples).
 
 ----------
 
