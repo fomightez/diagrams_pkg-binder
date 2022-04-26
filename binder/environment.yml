@@ -1,0 +1,12 @@
+name: diagrams_pkg-binder
+channels:
+  - conda-forge
+  - default
+
+dependencies:
+  - jupyterlab>=3.2.9
+  - networkx >=2.6.1
+  - python-graphviz        # this is the equivalent of pip's `graphviz`
+  - pygraphviz ==1.7
+  - pip:
+    - diagrams
