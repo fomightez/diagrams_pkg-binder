@@ -19,7 +19,7 @@ Diagram as Code for prototyping cloud system architectures
 
 ### Attribution
 
-I, Wayne, am not associated with the [diagrams package](https://github.com/mingrammer/diagrams), I just set this up to make testing the package more convenient. Examples from from [the documentation examples page](https://diagrams.mingrammer.com/docs/getting-started/examples).
+I, Wayne, am not associated with the [diagrams package](https://github.com/mingrammer/diagrams), I just set this up to make testing the package more convenient. Examples mainly from [the documentation examples page](https://diagrams.mingrammer.com/docs/getting-started/examples). The other examples are from the documentation as well and links to the sources are ilcuded in the demonstration notebooks.
 
 ----------
 
