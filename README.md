@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/3Dsurface_plot-binder/main?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/diagrams_pkg-binder/main?filepath=index.ipynb)
 
 # diagrams_pkg-binder
 
@@ -26,4 +26,4 @@ I, Wayne, am not associated with the [diagrams package](https://github.com/mingr
 
 ----------
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/3Dsurface_plot-binder/main?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/diagrams_pkg-binder/main?filepath=index.ipynb)
